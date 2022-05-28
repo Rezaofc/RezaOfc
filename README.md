@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rezaofc
 - 👀 I’m interested in kamu
-- 🌱 I’m currently learning mencintaimu
+- 🌱 I’m currently learning mecintaimu
+
 - 📫 nb.boruto.official@gmail.com
 
 <!---
