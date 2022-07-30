@@ -2,7 +2,7 @@
 # EzaBot-MD
 
 <p align="center">
-	<img src="https://telegra.ph/file/0e39bf30a5f2d12e14c51.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/a7a927ea6d0c2059b6888.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 
 **SAYA ADALAH REZAOFC** nama asli saya _REZA ALDY ASHARI_ saya hanya bisa merecode bot jadi jangan bully saya
