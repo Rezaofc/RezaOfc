@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/verdihatorou"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=TIADA+YANG+INDAH;SELAIN'MELIHAT+MU" alt="Asu">
+  <a href="https://github.com/Rezaofc"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Bang+Bang+Bang;KAMU'GAY+YA?" alt="Asu">
 </p>
 
 <!--
