@@ -2,9 +2,9 @@
 ### Hi there 👋 My name Reza
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+Reza+🗿🙏.;'suport+my+acount+github🗿." alt="EzaBot-MD">
 </p>
-<img src="https://telegra.ph/file/1a3eac3701775793618b3.jpg" alt="verdikawaii" width="360" />
+<img src="https://telegra.ph/file/96cc0c90ea307da04ee58.jpg" alt="RezaOfc" width="360" />
 
 </p>
 
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .MY IS MALE .
 - ⚡ Fun fact: ...
 -->
-[![VERDI](https://github.com/verdihatorou.png?size=100)](https://github.com/verdihatorou) </p>  `ITs me Reza`  </p>
+[![Reza](https://github.com/Rezaofc.png?size=100)](https://github.com/Rezaofc) </p>  `ITs me Reza`  </p>
 
- `tiada yang indah selain sediri`
+ `Manusia hanyalah alat`
 
-:v
+:)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=verdihatorou&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=verdihatorou&layout=compact&theme=nightowl)
