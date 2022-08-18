@@ -31,6 +31,3 @@ Here are some ideas to get you started:
  `Manusia hanyalah alat`
 
 :)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=RezaOfc&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaOfc&layout=compact&theme=nightowl)
