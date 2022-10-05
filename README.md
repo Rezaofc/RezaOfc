@@ -48,7 +48,7 @@
 
 - 👨‍💻 Semua Projek [https://github.com/RezaOfc](https://github.com/RezaOfc)
 
-- - Demo Dashboard - [https://wudysoft-blogger.netlify.app](https://wudysoft-blogger.netlify.app)
+- - My Instagram - [https://instagram.com/gamer.s_official]
 
 - 📫 Gmail **nb.boruto.official@gmail.com**
 
