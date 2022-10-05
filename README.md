@@ -48,7 +48,7 @@
 
 - 👨‍💻 Semua Projek [https://github.com/RezaOfc](https://github.com/Rezaofc?tab=repositories)
 
-- - My Instagram - [https://instagram.com/gamer.s_official]
+- - My Instagram - [https://instagram.com](https://instagram.com/gamer.s_official)
 
 - 📫 Gmail **nb.boruto.official@gmail.com**
 
