@@ -66,6 +66,8 @@
 <a href="https://www.youtube.com/c/mr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr18" height="30" width="40" /></a>
 <a href="https://wa.me/6289606790112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="RezaOfc" height="30" width="40" /></a>
 <a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rezaofc" height="30" width="40" /></a>
+<a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -163,9 +165,9 @@
  ---
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
 ⭐️ From [Quan](https://github.com/RezaOfc) with :sparkling_heart: 
