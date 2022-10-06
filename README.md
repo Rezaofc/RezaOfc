@@ -55,7 +55,7 @@
 - ⚡ Fun fact **Hei, Not bad**
 
 ### MY WEB
-(https://rezaofc.Github.io)<br>
+(https://rezaofc.Github.io)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
