@@ -86,8 +86,8 @@
 ### Languages<sup>*</sup>
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/RezaOfc)](https://github.com/AlphaBotV16-RezaOfc)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/RezaOfc/AlphaBotV16-RezaOfc)](https://github.com/RezaOfc/RezaOfc)
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/RezaOfc/AlphaBotV16-RezaOfc)](https://github.com/RezaOfc/RezaOfc)
+[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/RezaOfc/RezaOfc)](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/RezaOfc/RezaOfc)](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI)
@@ -97,7 +97,7 @@
   [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI)
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI)
   [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI)
-  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/AyGemuy/Python-AWS-TradingAI) 
+  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI) 
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/RezaOfc/OOP-JAVA-and-Android-App-Developer)](https://github.com/RezaOfc/OOP-JAVA-and-Android-App-Developer) 
@@ -152,7 +152,7 @@
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=RezaOfc&theme=radical "RezaOfc")](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=RezaOfc&theme=radical "RezaOfc")](https://github.com/RezaOfc/RezaOfc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=Dmin-Dashboard-v23&theme=highcontrast "Dmin-Dashboard-v23")](https://github.com/RezaOfc/Dmin-Dashboard-v23)
 
 <!-- ### 🏆 Github Status
