@@ -46,7 +46,7 @@
 
 - 🤝 CUMA BISA COPPY DOANG
 
-- 👨‍💻 Semua Projek [https://github.com](https://github.com/Rezaofc?tab=repositories)
+- 👨‍💻 Semua Projek Saya [https://github.com](https://github.com/Rezaofc?tab=repositories)
 
 - - ⚡ Fun fact **Hei, Not bad**
 
