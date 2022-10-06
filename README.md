@@ -1,13 +1,13 @@
 # ```RezaOfc```
 <p align="center">
 <a href="https://github.com/RezaOfc/followers"><img title="Followers" src="https://img.shields.io/github/followers/RezaOfc?color=red&style=flat-square"></a>
-<a href="https://github.com/RezaOfc/RezaOfc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RezaOfc/RezaOfc?color=blue&style=flat-square"></a>
-<a href="https://github.com/RezaOfc/RezaOfc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RezaOfc/RezaOfc?color=red&style=flat-square"></a>
-<a href="https://github.com/RezaOfc/RezaOfc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RezaOfc/RezaOfc?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/RezaOfc/RezaOfc"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/RezaOfc/RezaOfc/"><img title="Size" src="https://img.shields.io/github/repo-size/RezaOfc/RezaOfc?style=flat-square&color=green"></a>
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RezaOfc/AlphaBotV16-RezaOfc?color=blue&style=flat-square"></a>
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RezaOfc/AlphaBotV16-RezaOfc?color=red&style=flat-square"></a>
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RezaOfc/AlphaBotV16-RezaOfc?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc/"><img title="Size" src="https://img.shields.io/github/repo-size/RezaOfc/RezaOfc?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRezaOfc%2FRezaOfc&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/RezaOfc/RezaOfc/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RezaOfc/AlphaBotV16-RezaOfc/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
