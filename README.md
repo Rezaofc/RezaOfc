@@ -155,7 +155,6 @@
 ---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=alphaBotV16-RezaOfc&theme=radical "alphaBotV16-RezaOfc")](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=RezaOfc&theme=radical "RezaOfc")](https://github.com/RezaOfc)
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaOfc&show_icons=true&theme=tokyonight&hide_border=true)
