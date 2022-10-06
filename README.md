@@ -48,7 +48,7 @@
 
 - 👨‍💻 Semua Projek [https://github.com](https://github.com/Rezaofc?tab=repositories)
 
---- ⚡ Fun fact **Hei, Not bad**
+- - ⚡ Fun fact **Hei, Not bad**
 
 ### MY WEB
 (https://rezaofc.Github.io)
