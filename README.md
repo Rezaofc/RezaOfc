@@ -61,7 +61,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/Reza Aldy Ashari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wudysoft" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100086229677350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wudysoft" height="30" width="40" /></a>
 <a href="https://instagram.com/gamer.s_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wudysoft" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wudysoft" height="30" width="40" /></a>
 </p>
@@ -72,11 +72,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/082195322106"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="082195322106" /></a><a href="https://ko-fi.com/Wufysofy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Wufysofy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaOfc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="RezaOfc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphaBotV16-RezaOfc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="AlphaBotV16-RezaOfc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RezaOfc&show_icons=true&theme=dracula&locale=en" alt="RezaOfc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlphaBotV16-RezaOfc&show_icons=true&theme=dracula&locale=en" alt="AlphaBotV16-RezaOfc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RezaOfc&theme=dark" alt="RezaOfc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotV16-RezaOfc&theme=dark" alt="AlphaBotV16-RezaOfc" /></p>
 
 ## ```Thanks To```
 - [`RezaOfc`](https://api.whatsapp.com/send?phone=6289606790112&text=Assalamualaikun%20bang)
@@ -85,9 +85,9 @@
 
 ### Languages<sup>*</sup>
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/AyGemuy)](https://github.com/AyGemuy)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/RezaOfc/RezaOfc)](https://github.com/RezaOfc/RezaOfc)
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/RezaOfc/RezaOfc)](https://github.com/RezaOfc/RezaOfc)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/RezaOfc)](https://github.com/AlphaBotV16-RezaOfc)
+[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/RezaOfc/AlphaBotV16-RezaOfc)](https://github.com/RezaOfc/RezaOfc)
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/RezaOfc/AlphaBotV16-RezaOfc)](https://github.com/RezaOfc/RezaOfc)
 
   **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/RezaOfc/Python-AWS-TradingAI)](https://github.com/RezaOfc/Python-AWS-TradingAI)
@@ -152,7 +152,7 @@
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=RezaOfc&theme=radical "RezaOfc")](https://github.com/RezaOfc/RezaOfc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=RezaOfc&theme=radical "RezaOfc")](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=Dmin-Dashboard-v23&theme=highcontrast "Dmin-Dashboard-v23")](https://github.com/RezaOfc/Dmin-Dashboard-v23)
 
 <!-- ### 🏆 Github Status
