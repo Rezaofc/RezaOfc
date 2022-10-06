@@ -159,12 +159,8 @@
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RezaOfc&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
  ---
-### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
+### MY LOVE ❤
+  <a href="https://api.whatsapp.com/send?phone=6281352905695&text=Assalamualaikun%20kak"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 ⭐️ From [Quan](https://github.com/RezaOfc) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
