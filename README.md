@@ -44,7 +44,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RezaOfc" alt="RezaOfc" /></a> </p>
 
 
-- 🤝 CUMA BISA COPPY DOANG BG
+- 🤝 CUMA BISA COPPY DOANG
 
 - 👨‍💻 Semua Projek [https://github.com](https://github.com/Rezaofc?tab=repositories)
 
