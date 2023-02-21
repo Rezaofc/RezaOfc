@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://wa.me/6289606790112"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://chat.whatsapp.com/Htbopc53nFD3puFb3LfMe1"><img src="https://img.shields.io/badge/Gc Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://chat.whatsapp.com/EtTajZeBjZL68vaoSSZ5ar"><img src="https://img.shields.io/badge/Gc Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://github.com/RezaOfc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <a href="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat" />
 
