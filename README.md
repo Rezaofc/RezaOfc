@@ -160,7 +160,7 @@
 
  ---
 ### 404
-  <a href="https://api.whatsapp.com/send?phone=6281352905695&text=Assalamualaikun%20kak"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://api.whatsapp.com/send?phone=6289606790112&text=Assalamualaikun%20kak"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 ⭐️ From [Quan](https://github.com/RezaOfc) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
