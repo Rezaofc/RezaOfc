@@ -33,7 +33,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RezaOfc" alt="RezaOfc" /></a> </p>
 
 
-- 🤝 SAYA ADALAH DUAMINYA HINATA. 
+- 🤝 SAYA ADALAH SUAMINYA HINATA. 
 - 👨‍💻 Semua Projek Saya [Silahkan pencet](https://github.com/Rezaofc?tab=repositories)
 
 - ⚡ Fun fact **Hei, Not bad**
