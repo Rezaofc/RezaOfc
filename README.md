@@ -8,12 +8,19 @@
 - 🗣️ I am 16 years old 
 - 🔭 I am programmer
 
-## ```Connect with me```
+
+------
+### Connect with me ☎️
 <p align="center">
+  <a href="https://instagram.com/EVOS.Rezz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6289606790112"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://chat.whatsapp.com/EtTajZeBjZL68vaoSSZ5ar"><img src="https://img.shields.io/badge/Gc Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://github.com/RezaOfc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <a href="https://www.facebook.com/profile.php?id=100086229677350&mibextid=b06tZ0"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://youtube.com/@MrReza18"><img src="https://img.shields.io/badge/YouTube-Reza Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@MrReza18" /><br>
+  <a name=rezaofc&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/rezaofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/@MrReza18"><img src="https://img.shields.io/youtube/channel/subscribers/mrreza18?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=Rezaofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RezaOfc&color=green&style=flat-square&label=Profile+View"></a>
+</p>
   <a href="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat" />
 <a href="https://github.com/RezaOfc/followers"><img title="Followers" src="https://img.shields.io/github/followers/RezaOfc?color=red&style=flat-square"></a>
 
