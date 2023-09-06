@@ -19,9 +19,7 @@
   <a name=rezaofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/rezaofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/@MrReza18"><img src="https://img.shields.io/youtube/channel/subscribers/mrreza18?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=Rezaofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RezaOfc&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-  <a href="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=RezaOfc&color=blue&style=flat-square&label=Profile+Dilihat" />
+  <a href="https://komarev.com/ghpvc/?username=Rezaofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RezaOfc&color=green&style=flat-square&label=Profile+View">
 <a href="https://github.com/RezaOfc/followers"><img title="Followers" src="https://img.shields.io/github/followers/RezaOfc?color=red&style=flat-square"></a>
 
 </p>
