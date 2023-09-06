@@ -20,7 +20,7 @@
 </p>
 
 ```My Web```
-[`Go to website`](RezaOfc.github.io)<br>
+[`Go to website`](https://rezaofc.github.io/)<br>
 
 <h3 align="center">Saya dari Indonesia</h3>
 
