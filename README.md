@@ -19,9 +19,6 @@
   <a name=rezaofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/rezaofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/@MrReza18"><img src="https://img.shields.io/youtube/channel/subscribers/mrreza18?style=social" /> <br>
-    <a href="Nb.boruto.official@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
-</p>
   <a href="https://komarev.com/ghpvc/?username=Rezaofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RezaOfc&color=green&style=flat-square&label=Profile+View">
 <a href="https://github.com/RezaOfc/followers"><img title="Followers" src="https://img.shields.io/github/followers/RezaOfc?color=red&style=flat-square"></a>
 
@@ -45,7 +42,7 @@
  
 <h3 align="left">GRUP SAYA:</h3>
 <p align="left">
-<a href="https://chat.whatsapp.com/EtTajZeBjZL68vaoSSZ5ar"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EtTajZeBjZL68vaoSSZ5ar"><img src="https://img.shields.io/badge/gc eza bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
