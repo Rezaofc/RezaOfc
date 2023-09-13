@@ -2,7 +2,7 @@
 
 - 👼 My name is RezaOfc
 - 🗣️ I am 16 years old 
-- 🔭 I am programmer
+- 👨‍💻 I am not programmer
 
 <p align="center">
   <img style="border-radius:15px;"
