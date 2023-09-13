@@ -5,7 +5,7 @@
 - 🔭 I am programmer
 
 <p align="center">
-  <img src="https://telegra.ph/EEzabot-09-13" />
+  <img src="https://aemt.me/file/PssIBaqsuzoU.jpg" />
 </p>
 HINATA ISTRI GW 😋
 
