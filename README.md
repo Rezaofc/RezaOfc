@@ -35,10 +35,13 @@ HINATA ISTRI GW 😋
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RezaOfc" alt="RezaOfc" /></a> </p>
 
 
-- 🤝 SAYA ADALAH SUAMINYA HINATA. 
+- 🤝 Pencopas Handal. 
 - 👨‍💻 Semua Projek Saya [Silahkan pencet](https://github.com/Rezaofc?tab=repositories)
-
 - ⚡ Fun fact **Hei, Not bad**
+  
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
  
 <h3 align="left">GRUP SAYA:</h3>
 <p align="left">
