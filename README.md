@@ -54,15 +54,6 @@ HINATA ISTRI GW 😋
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/082195322106"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="082195322106" /></a><a href="https://ko-fi.com/Wufysofy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Wufysofy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaOfc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="AlphaBotV16-RezaOfc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RezaOfc&show_icons=true&theme=dracula&locale=en" alt="AlphaBotV16-RezaOfc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RezaOfc&theme=dark" alt="RezaOfc" /></p>
-
-## ```Thanks To```
-- [`RezaOfc`](https://api.whatsapp.com/send?phone=6289606790112&text=Assalamualaikun%20bang)
-
 ### 💻:keyboard: Languages and Tools 
 
 ### Languages<sup>*</sup>
