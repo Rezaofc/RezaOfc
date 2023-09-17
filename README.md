@@ -36,7 +36,8 @@ HINATA ISTRI GW 😋
 
 
 - 🤝 Pencopas Handal. 
-- 👨‍💻 Semua Projek Saya [Silahkan pencet](https://github.com/Rezaofc?tab=repositories)
+- 👨‍💻 Semua Projek Saya
+   [Silahkan pencet](https://github.com/Rezaofc?tab=repositories)
 - ⚡ Fun fact **Hei, Not bad**
   
 <p align="center">
