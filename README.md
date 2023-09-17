@@ -118,17 +118,7 @@ HINATA ISTRI GW 😋
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
----
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RezaOfc&repo=alphaBotV16-RezaOfc&theme=radical "alphaBotV16-RezaOfc")](https://github.com/RezaOfc/AlphaBotV16-RezaOfc)
-
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaOfc&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=RezaOfc&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
- ---
-### 404
-  <a href="https://api.whatsapp.com/send?phone=6289606790112&text=Assalamualaikun%20kak"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-⭐️ From [Quan](https://github.com/RezaOfc) with :sparkling_heart: 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
